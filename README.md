@@ -11,7 +11,8 @@ played. Complete the included `Playlist` class in order to implement the followi
 * `getNextSong()` : returns the next song to be played, which should only be played once.
   * If there is no next song in the playlist, `getNextSong()` should return `null`.
 
-Run the `MusicPlayerApp`'s `main()` method to test your implementation. Take a look through the comments in the
+Run the `MusicPlayerApp`'s `main()` method to test your implementation. Take a look through 
+the comments in the
 source to see what it is doing.
 
 HINTS:
